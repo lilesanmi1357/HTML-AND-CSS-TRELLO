@@ -1,0 +1,45 @@
+#body {
+background-color: #cc2900;
+}
+
+#wrapper {
+background-color: #cc2900;
+min-width: 1000px;
+max-width: 1280px;
+margin: auto;
+}
+
+#header {
+background-color: #404040;
+color: white;
+background-image: "Amp.png";
+background-image: non-repeating;
+background-image: right;
+height: 150px;
+}
+
+#nav {
+background-color: #cc2900;
+color: #333;
+text-align: center;
+padding: 1em;
+}
+
+#main {
+min-width: 500px;
+max-width: 1000px;
+margin: auto;
+right-padding: 2em;
+left-padding: 2em;
+background-colour: #333;
+}
+
+#footer {
+background-color: #404040;
+color: white;
+text-align: center;
+padding: 1em;
+position: absolute;
+bottom: 0;
+width: 100%;
+}
